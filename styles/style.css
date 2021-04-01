@@ -211,29 +211,29 @@ p.description {
   left: 0;
 }
 
-.btn-pepperoni {
+.btn-pepperonni {
   background: #e8103b;
   box-shadow: 0 6px #890923;
   color: #fff;
 }
 
-.btn-pepperoni:hover {
+.btn-pepperonni:hover {
   background: #c80e33;
   box-shadow: 0 5px #69071b;
   color: #fff;
 }
 
-.btn-pepperoni.active {
+.btn-pepperonni.active {
   top: 2px;
   box-shadow: 0 2px #890923;
 }
 
-.btn-pepperoni.active:hover {
+.btn-pepperonni.active:hover {
   box-shadow: 0 2px #69071b;
 }
 
-.btn-pepperoni:active,
-.btn-pepperoni.active:active {
+.btn-pepperonni:active,
+.btn-pepperonni.active:active {
   top: 5px;
   box-shadow: none;
 }
@@ -424,7 +424,7 @@ p.description {
 }
 
 /*--- Pepperoni ---*/
-#pepperoni section:nth-child(7) {
+#pepperonni section:nth-child(7) {
   -moz-transform: rotate(12deg) translate(-4px, -600px);
   -webkit-transform: rotate(12deg) translate(-4px, -600px);
   -o-transform: rotate(12deg) translate(-4px, -600px);
